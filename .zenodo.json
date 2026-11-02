@@ -30,5 +30,7 @@
       "scheme": "url"
     }
   ],
-  "notes": "Las cifras corresponden a la fecha de corte indicada en resultados/corte.json. Los repositorios de origen crecen continuamente: una ejecución posterior devolverá números distintos, y el código está hecho para repetirla."
+  "notes": "Las cifras corresponden a la fecha de corte indicada en resultados/corte.json. Los repositorios de origen crecen continuamente: una ejecución posterior devolverá números distintos, y el código está hecho para repetirla.",
+  "doi": "10.5281/zenodo.23898811",
+  "version": "1.0.0"
 }

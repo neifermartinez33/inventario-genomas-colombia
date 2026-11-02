@@ -1,5 +1,9 @@
 # Inventario de genomas de patógenos aislados en Colombia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23898811.svg)](https://doi.org/10.5281/zenodo.23898811)
+[![Licencia: CC BY 4.0](https://img.shields.io/badge/datos-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/deed.es)
+[![Licencia: MIT](https://img.shields.io/badge/c%C3%B3digo-MIT-green.svg)](LICENSE)
+
 Cuántos genomas de patógenos aislados **en Colombia** hay públicos ahora mismo, en qué
 estado están y qué se puede hacer con ellos sin laboratorio, sin permisos y sin pagar
 secuenciación.
@@ -98,8 +102,13 @@ que dependen de reglas escritas a mano.
 
 ## Cómo citarlo
 
-Ver `CITATION.cff`. El DOI de Zenodo cita la versión congelada; este repositorio es la
-versión viva.
+```
+Martínez-Durango, N. M. (2026). Inventario de genomas de patógenos aislados en Colombia
+(versión 1.0.0) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.23898811
+```
+
+El DOI cita la versión congelada del corte; este repositorio es la versión viva y puede
+haber avanzado. Ver también `CITATION.cff`.
 
 ## Licencia
 
