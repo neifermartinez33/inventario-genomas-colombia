@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Inventario de genomas de patógenos aislados en Colombia
+message: Si usas este inventario, cítalo así.
+type: dataset
+authors:
+  - family-names: Martínez-Durango
+    given-names: Neifer Miguel
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   <- PENDIENTE: añadir el ORCID
+abstract: >-
+  Inventario reproducible de las muestras de bacterias, levaduras y hongos patógenos
+  aisladas en Colombia que están depositadas en repositorios públicos (NCBI Pathogen
+  Detection, BV-BRC, ENA/SRA/DDBJ y NCBI BioSample/Assembly). Incluye el código que
+  construye el inventario desde cero, los resultados del corte, el estado de cada
+  muestra (genoma ensamblado o solo lecturas crudas), la completitud de sus metadatos
+  y su departamento de origen cuando está registrado.
+keywords:
+  - genómica
+  - Colombia
+  - vigilancia genómica
+  - patógenos
+  - resistencia antimicrobiana
+  - datos abiertos
+  - bioinformática
+license: CC-BY-4.0
+repository-code: "https://github.com/neifermartinez33/inventario-genomas-colombia"
+# doi: "10.5281/zenodo.XXXXXXXX"   <- PENDIENTE: el DOI reservado en el borrador de Zenodo

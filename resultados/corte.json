@@ -1,0 +1,118 @@
+{
+  "fuentes": {
+    "ena": {
+      "titulo": "ENA · corridas de lecturas crudas",
+      "registros": 3913,
+      "consultado_en": "2026-11-02T22:03:50+00:00",
+      "segundos": 4.0,
+      "archivo": "fuente_ena.csv"
+    },
+    "bvbrc": {
+      "titulo": "BV-BRC · genomas bacterianos ensamblados",
+      "registros": 2368,
+      "consultado_en": "2026-11-02T22:03:52+00:00",
+      "segundos": 1.8,
+      "archivo": "fuente_bvbrc.csv"
+    },
+    "pd": {
+      "titulo": "NCBI Pathogen Detection · aislamientos vigilados",
+      "registros": 3675,
+      "consultado_en": "2026-11-02T22:08:42+00:00",
+      "segundos": 268.8,
+      "archivo": "fuente_pd.csv"
+    },
+    "hongos": {
+      "titulo": "NCBI BioSample y Assembly · hongos",
+      "registros": 670,
+      "consultado_en": "2026-11-02T22:09:40+00:00",
+      "segundos": 58.5,
+      "archivo": "fuente_hongos.csv"
+    }
+  },
+  "fecha_corte": "2026-11-02T22:09:40+00:00",
+  "unificado": {
+    "registros": 10626,
+    "taxones": 482,
+    "por_fuente": {
+      "BV-BRC": 2368,
+      "ENA": 3913,
+      "NCBI BioSample": 546,
+      "NCBI Assembly": 124,
+      "NCBI Pathogen Detection": 3675
+    },
+    "en": "2026-11-02T22:11:33+00:00"
+  },
+  "limpieza": {
+    "registros_entrada": 10626,
+    "muestras_unicas": 5958,
+    "colapsadas": 4668,
+    "conflicto_especie": 31,
+    "patogenos": 5092,
+    "plantas": 157,
+    "excluidas": 709,
+    "especies_patogenas": 155,
+    "en": "2026-11-02T22:11:33+00:00",
+    "top_excluidas": [
+      [
+        "Uncultured fungus",
+        33
+      ],
+      [
+        "Bacillus velezensis",
+        21
+      ],
+      [
+        "Streptomyces",
+        20
+      ],
+      [
+        "Sarocladium kiliense",
+        16
+      ],
+      [
+        "Acidimicrobiales bacterium",
+        15
+      ],
+      [
+        "Klebsiella",
+        15
+      ],
+      [
+        "Terriglobales bacterium",
+        14
+      ],
+      [
+        "Xanthobacteraceae bacterium",
+        12
+      ],
+      [
+        "Candidatus acidiferrales",
+        12
+      ],
+      [
+        "Burkholderiales bacterium",
+        10
+      ],
+      [
+        "Saccharomyces cerevisiae",
+        9
+      ],
+      [
+        "Steroidobacteraceae bacterium",
+        8
+      ],
+      [
+        "Streptosporangiaceae bacterium",
+        8
+      ],
+      [
+        "Uncultured acidobacteriaceae",
+        8
+      ],
+      [
+        "Lodderomyces parapsilosis",
+        8
+      ]
+    ]
+  }
+}

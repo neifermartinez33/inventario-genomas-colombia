@@ -1,0 +1,130 @@
+{
+  "muestras": 5092,
+  "con_departamento": 1964,
+  "con_departamento_pct": 38.6,
+  "departamentos": [
+    [
+      "Bogotá D.C.",
+      801
+    ],
+    [
+      "Antioquia",
+      435
+    ],
+    [
+      "Cundinamarca",
+      143
+    ],
+    [
+      "Valle del Cauca",
+      82
+    ],
+    [
+      "Risaralda",
+      76
+    ],
+    [
+      "Atlántico",
+      65
+    ],
+    [
+      "Bolívar",
+      62
+    ],
+    [
+      "Nariño",
+      53
+    ],
+    [
+      "Santander",
+      36
+    ],
+    [
+      "Cauca",
+      34
+    ],
+    [
+      "Boyacá",
+      32
+    ],
+    [
+      "Magdalena",
+      20
+    ],
+    [
+      "Tolima",
+      20
+    ],
+    [
+      "Caldas",
+      19
+    ],
+    [
+      "Norte de Santander",
+      14
+    ],
+    [
+      "Cesar",
+      14
+    ],
+    [
+      "Córdoba",
+      10
+    ],
+    [
+      "La Guajira",
+      7
+    ],
+    [
+      "Meta",
+      7
+    ],
+    [
+      "Arauca",
+      6
+    ],
+    [
+      "Chocó",
+      5
+    ],
+    [
+      "Huila",
+      5
+    ],
+    [
+      "Quindío",
+      5
+    ],
+    [
+      "San Andrés y Providencia",
+      4
+    ],
+    [
+      "Casanare",
+      3
+    ],
+    [
+      "Sucre",
+      2
+    ],
+    [
+      "Putumayo",
+      2
+    ],
+    [
+      "Caquetá",
+      1
+    ],
+    [
+      "Amazonas",
+      1
+    ]
+  ],
+  "n_departamentos": 29,
+  "completitud_pct": {
+    "departamento": 38.6,
+    "anio": 97.8,
+    "fuente_aislamiento": 89.1,
+    "huesped": 88.6
+  }
+}

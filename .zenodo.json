@@ -1,0 +1,34 @@
+{
+  "title": "Inventario de genomas de patógenos aislados en Colombia",
+  "upload_type": "dataset",
+  "language": "spa",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Martínez-Durango, Neifer Miguel"
+    }
+  ],
+  "description": "<p>Inventario reproducible de las muestras de bacterias, levaduras y hongos pat&oacute;genos <strong>aisladas en Colombia</strong> que est&aacute;n depositadas en repositorios p&uacute;blicos.</p><p>Re&uacute;ne cuatro fuentes &mdash; NCBI Pathogen Detection, BV-BRC, ENA (incluye SRA y DDBJ) y NCBI BioSample/Assembly &mdash; bajo una misma regla de pa&iacute;s, deja una fila por muestra y separa lo que es pat&oacute;geno de lo que es ambiental.</p><p>Para cada muestra registra: especie normalizada, BioSample, ensamblaje, corridas, BioProject, centro depositante, fuente de aislamiento, hu&eacute;sped, a&ntilde;o de colecta y departamento de origen cuando est&aacute; registrado.</p><p><strong>Qu&eacute; permite responder:</strong> cu&aacute;ntas muestras tienen lecturas crudas p&uacute;blicas y ning&uacute;n genoma ensamblado (es decir, cu&aacute;nto an&aacute;lisis queda por hacer sin necesidad de laboratorio), qu&eacute; proporci&oacute;n registra de qu&eacute; parte del pa&iacute;s viene, y qu&eacute; especies vigiladas tienen muy pocas muestras depositadas.</p><p>Incluye el c&oacute;digo completo que construye el inventario desde cero, la lista de especies excluidas con su motivo para que el criterio se pueda auditar, y la fecha de corte de cada consulta.</p><p><strong>Limitaciones:</strong> los datos describen lo que se ha depositado, no la prevalencia real. Un departamento sin muestras no es un departamento sin pat&oacute;genos, sino uno sin secuenciaci&oacute;n depositada. La clasificaci&oacute;n de \"pat&oacute;geno\" y la asignaci&oacute;n de departamento dependen de reglas documentadas y discutibles.</p>",
+  "keywords": [
+    "genómica",
+    "Colombia",
+    "vigilancia genómica",
+    "patógenos",
+    "resistencia antimicrobiana",
+    "datos abiertos",
+    "bioinformática",
+    "NCBI Pathogen Detection",
+    "BV-BRC",
+    "ENA"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/neifermartinez33/inventario-genomas-colombia",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Las cifras corresponden a la fecha de corte indicada en resultados/corte.json. Los repositorios de origen crecen continuamente: una ejecución posterior devolverá números distintos, y el código está hecho para repetirla."
+}

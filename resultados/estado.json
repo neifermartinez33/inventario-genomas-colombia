@@ -1,0 +1,78 @@
+{
+  "muestras": 5092,
+  "especies": 155,
+  "bioprojects": 469,
+  "ensambladas": 3334,
+  "solo_lecturas": 1711,
+  "solo_lecturas_pct": 33.6,
+  "sin_secuencia": 47,
+  "top_sin_ensamblar": [
+    [
+      "Salmonella enterica",
+      366
+    ],
+    [
+      "Mycobacterium tuberculosis",
+      355
+    ],
+    [
+      "Streptococcus pneumoniae",
+      313
+    ],
+    [
+      "Candida auris",
+      237
+    ],
+    [
+      "Acinetobacter baumannii",
+      76
+    ],
+    [
+      "Escherichia coli",
+      32
+    ]
+  ],
+  "top_especies": [
+    [
+      "Salmonella enterica",
+      739
+    ],
+    [
+      "Klebsiella pneumoniae",
+      726
+    ],
+    [
+      "Escherichia coli",
+      520
+    ],
+    [
+      "Mycobacterium tuberculosis",
+      418
+    ],
+    [
+      "Streptococcus pneumoniae",
+      399
+    ],
+    [
+      "Staphylococcus aureus",
+      337
+    ],
+    [
+      "Helicobacter pylori",
+      271
+    ],
+    [
+      "Pseudomonas aeruginosa",
+      270
+    ],
+    [
+      "Candida auris",
+      253
+    ],
+    [
+      "Neisseria meningitidis",
+      115
+    ]
+  ],
+  "concentracion_top10_pct": 79.5
+}
